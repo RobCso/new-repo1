@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Yusei+Magic&display=swap');
+
+main {
+  font-family: 'Roboto';
+  line-heights: 1.5;
+  background-color: aqua;
+  width: 600px;
+  margin: auto;
+}
+
+html,
+body {
+  margin: 0;
+  height: 100%;
+}
+
+/* don't edit this */
+.jest-lite-report__status--pass {
+  background: var(--color-pass);
+}
+.jest-lite-report__errors { display:none }
